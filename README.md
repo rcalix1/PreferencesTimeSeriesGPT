@@ -4,6 +4,8 @@
 
 ## SPO
 
+
+<pre lang="python"><code>
 import torch
 import torch.nn.functional as F
 
@@ -36,4 +38,7 @@ print(f"Score (preferred): {score_pref.item():.4f}")
 print(f"Score (rejected):  {score_rej.item():.4f}")
 print(f"Softmax probs:     {probs.tolist()}")
 print(f"Preference loss:   {manual_loss.item():.4f}")
+
+ </code></pre>
+ 
 
