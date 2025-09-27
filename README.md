@@ -1,6 +1,14 @@
 # Preferences Time Series GPT
 
+* link
+
+## UCI
+
 * https://github.com/rcalix1/UCIdataTS_GPT_preferencesDPO/tree/main/2025
+
+## Silicon CIVS
+
+* https://github.com/rcalix1/DPOpreferencesGPT
 
 ## SPO
 
